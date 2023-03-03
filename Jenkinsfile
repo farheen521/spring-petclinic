@@ -1,4 +1,4 @@
-ode('JDK-17')
+node('JDK-17')
 {  
      stage('vcs')
     {
